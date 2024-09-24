@@ -1,2 +1,2 @@
 # odin-recipes
-recipes for the odin project to demonstrate using git and html
+recipes project for the odin project to demonstrate using git and html
