@@ -1,0 +1,17 @@
+.home {
+    text-align: end;
+    margin: 0px 16px 0px 0px;
+}
+
+.title {
+    text-align: center;
+}
+
+.food {
+    margin: 0px auto 0px auto;
+    width: 300px;
+}
+
+.quote {
+    margin: 8px;
+}
